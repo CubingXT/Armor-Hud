@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "ukus-armor-hud",
+  "id": "armor-hud",
   "version": "${version}",
   "name": "Armor HUD",
-  "description": "This mod adds a minimalistic vanilla-like widget that shows your armor items and a warning if durability is low enough. Forked by uku. Later forked by CubingXT to update to newer versions.",
+  "description": "This mod adds a minimalistic vanilla-like widget that shows your armor items and a warning if durability is low enough. Initially made by BerdinskyBear. Forked by uku. Later forked by CubingXT to update to newer versions.",
   "authors": [
     "BerdinskiyBear",
     "uku",
