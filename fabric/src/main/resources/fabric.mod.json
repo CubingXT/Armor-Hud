@@ -2,18 +2,19 @@
   "schemaVersion": 1,
   "id": "ukus-armor-hud",
   "version": "${version}",
-  "name": "uku's Armor HUD",
-  "description": "This mod adds a minimalistic vanilla-like widget that shows your armor items and a warning if durability is low enough. Forked by uku.",
+  "name": "Armor HUD",
+  "description": "This mod adds a minimalistic vanilla-like widget that shows your armor items and a warning if durability is low enough. Forked by uku. Later forked by CubingXT to update to newer versions.",
   "authors": [
     "BerdinskiyBear",
-    "uku"
+    "uku",
+    "CubingXT"
   ],
   "contributors": [
     "AnAwesomGuy"
   ],
   "contact": {
-    "homepage": "https://github.com/uku3lig/armor-hud",
-    "issues": "https://github.com/uku3lig/armor-hud/issues"
+    "homepage": "https://sites.google.com/view/armor-hud/",
+    "issues": "https://forms.gle/P2aDy8v7CkMrMDsz5"
   },
   "license": "MIT",
   "icon": "assets/ukus-armor-hud/icon.png",
